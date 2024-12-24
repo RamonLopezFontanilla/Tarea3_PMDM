@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="capturas">Capturas</string>
+    <string name="pok_dex">Pokedex</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="detalles">Detalles</string>
+    <string name="captura_index">Indice:</string>
+    <string name="captura_type">Tipo(s):</string>
+    <string name="captura_weight">Peso:</string>
+    <string name="captura_height">Altura:</string>
+    <string name="button_about">Acerca de...</string>
+    <string name="buttom_close_sesion">Cerrar sesión</string>
+    <string name="radio_language">Idioma:</string>
+    <string name="radio_spanish">Español</string>
+    <string name="radio_english">Inglés</string>
+    <string name="button_delete">Eliminar</string>
+    <string name="toast_no_delete">Activa antes la opción de borrar en ajustes.</string>
+    <string name="toast_close_sesion">acabas de cerrar sesión</string>
+    <string name="eliminar_pokemons">Eliminar pokemons</string>
+    <string name="titulo_cuadro_acerca_de">Acerca de Pokemons</string>
+    <string name="texto_cuadro_acerca_de">Aplicación desarrollada por Ramón López Fontanilla. Versión 1.0.0</string>
+    <string name="normal">normal</string>
+    <string name="fighting">lucha</string>
+    <string name="flying">vuelo</string>
+    <string name="poison">veneno</string>
+    <string name="ground">suelo</string>
+    <string name="rock">roca</string>
+    <string name="bug">bicho</string>
+    <string name="ghost">fantasma</string>
+    <string name="steel">acero</string>
+    <string name="fire">fuego</string>
+    <string name="water">agua</string>
+    <string name="grass">cesped</string>
+    <string name="electric">eléctrico</string>
+    <string name="psychic">psíquico</string>
+    <string name="ice">hielo</string>
+    <string name="dragon">dragón</string>
+    <string name="dark">oscuro</string>
+    <string name="fairy">hada</string>
+    <string name="stellar">estelar</string>
+    <string name="unknown">desconocido</string>
+</resources>

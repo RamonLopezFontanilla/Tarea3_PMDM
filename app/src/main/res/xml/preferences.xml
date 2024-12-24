@@ -1,0 +1,17 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory
+        android:summary="Cambia las preferencias de la aplicación"
+        android:title="PREFERENCIAS">
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="switch_delete"
+            android:title="Eliminar Capturas"
+            app:icon="@android:drawable/ic_menu_delete" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
+

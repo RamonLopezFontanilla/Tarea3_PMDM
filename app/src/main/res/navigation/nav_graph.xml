@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_controller"
+    app:startDestination="@id/capturedFragment">
+
+    <fragment
+        android:id="@+id/capturedFragment"
+        android:name="com.example.tarea3.captured.CapturedFragment"
+        android:label="fragment_captured"
+        tools:layout="@layout/fragment_captured" >
+        <action
+            android:id="@+id/action_capturedFragment_to_detailsFragment"
+            app:destination="@id/detailsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/pokedexFragment"
+        android:name="com.example.tarea3.pokedex.PokedexFragment"
+        android:label="fragment_pokedex"
+        tools:layout="@layout/fragment_pokedex" />
+    <fragment
+        android:id="@+id/adjustFragment"
+        android:name="com.example.tarea3.AdjustFragment"
+        android:label="fragment_adjust"
+        tools:layout="@layout/fragment_adjust" />
+    <fragment
+        android:id="@+id/detailsFragment"
+        android:name="com.example.tarea3.DetailsFragment"
+        android:label="fragment_details"
+        tools:layout="@layout/fragment_details" />
+</navigation>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "681754354110",
+    "project_id": "tarea3-94340",
+    "storage_bucket": "tarea3-94340.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681754354110:android:b5b6836d88d5da674919ef",
+        "android_client_info": {
+          "package_name": "com.example.tarea3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681754354110-rbnit4c0k42bqpgiibnnk82qm63i4g95.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tarea3",
+            "certificate_hash": "838ffea62aefbb476b7dc06ce1507fb3411cf789"
+          }
+        },
+        {
+          "client_id": "681754354110-8mo70cnp54sodrfr3ogfc7osa14v9amb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1pYOrRmJJNfPAwnYKuCfC7yU67epI3iM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681754354110-8mo70cnp54sodrfr3ogfc7osa14v9amb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
