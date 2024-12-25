@@ -43,6 +43,4 @@ El desarrollo para mi ha sido como una montaña rusa a la hora de la implementar
 
 # Video demostración:
 Se puede ver una demostración del funcionamiento en el siguiente enlace:
-https://drive.google.com/file/d/1CpuxLWUd_ek0YEsLmd-WvB0om0Rq5PUv/view?usp=drive_link
-
-
+https://drive.google.com/file/d/1FMP3RWE_Ulo3cmYLOMZiA8SNeDETCJao/view?usp=drive_link
